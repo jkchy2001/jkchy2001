@@ -1,0 +1,11 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="250" rx="24" fill="#0A0A0B"/>
+<rect x="1" y="1" width="1198" height="248" rx="23" fill="none" stroke="#29292C"/>
+<text x="45" y="55" fill="#77777C" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="4">TOOLS I BUILD WITH</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#F4F4F0">
+<text x="45" y="112">FLUTTER</text><text x="260" y="112">DART</text><text x="440" y="112">FIREBASE</text><text x="670" y="112">REACT</text><text x="850" y="112">TYPESCRIPT</text>
+<text x="45" y="170">JAVASCRIPT</text><text x="260" y="170">NEXT.JS</text><text x="440" y="170">GIT</text><text x="670" y="170">ANDROID</text><text x="850" y="170">WINDOWS</text>
+</g>
+<line x1="45" y1="205" x2="1155" y2="205" stroke="#29292C"/>
+<text x="45" y="228" fill="#66666B" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">STACK IS A TOOLBOX — THE PRODUCT COMES FIRST.</text>
+</svg>

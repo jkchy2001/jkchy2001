@@ -1,0 +1,10 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="340" rx="24" fill="#0A0A0B"/>
+<rect x="1" y="1" width="898" height="338" rx="23" fill="none" stroke="#29292C"/>
+<text x="50" y="76" fill="#737379" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4">CURRENT PROJECT</text>
+<text x="50" y="138" fill="#F4F4F0" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700">PRINTOOL</text>
+<text x="50" y="180" fill="#A5A5A9" font-family="Arial,Helvetica,sans-serif" font-size="18">Tools for practical print and label workflows.</text>
+<text x="50" y="234" fill="#77777C" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">PRINTING · LABELS · UTILITIES</text>
+<rect x="50" y="274" width="800" height="1" fill="#29292C"/>
+<text x="50" y="310" fill="#66666B" font-family="Arial,Helvetica,sans-serif" font-size="14">PRODUCT · UI · ENGINEERING</text>
+</svg>
