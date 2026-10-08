@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Jitendra — Developer, Builder, Product Maker</title>
+  <desc id="desc">Personal GitHub profile hero for Jitendra, currently building Billway and Printool.</desc>
+
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7DB7FF"/>
+      <stop offset="1" stop-color="#B9D7FF"/>
+    </linearGradient>
+    <linearGradient id="mountain" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B2638"/>
+      <stop offset="1" stop-color="#090D14"/>
+    </linearGradient>
+    <radialGradient id="moonGlow">
+      <stop offset="0" stop-color="#F8F5EA" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#F8F5EA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="520" rx="24" fill="#08090B"/>
+  <rect x="28" y="28" width="1544" height="464" rx="18" fill="none" stroke="#272B31"/>
+
+  <!-- Fine technical grid -->
+  <g opacity=".18" stroke="#69717C" stroke-width="1">
+    <path d="M1050 72H1540M1050 112H1540M1050 152H1540M1050 192H1540M1050 232H1540M1050 272H1540M1050 312H1540M1050 352H1540M1050 392H1540M1050 432H1540"/>
+    <path d="M1090 58V455M1130 58V455M1170 58V455M1210 58V455M1250 58V455M1290 58V455M1330 58V455M1370 58V455M1410 58V455M1450 58V455M1490 58V455"/>
+  </g>
+
+  <!-- Header -->
+  <text x="82" y="78" fill="#858B94" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="5">JKCHY2001</text>
+  <line x1="195" y1="73" x2="1080" y2="73" stroke="#394049"/>
+  <text x="1110" y="78" fill="#858B94" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="4">BUILD · LEARN · REFINE · SHIP</text>
+
+  <!-- Personal identity -->
+  <text x="82" y="151" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">HI, I'M</text>
+
+  <text x="78" y="235" fill="#F4F5F6" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="2">JITENDRA</text>
+  <path d="M82 252H790" stroke="#3C424B"/>
+  <path d="M82 252H300" stroke="url(#accent)" stroke-width="3"/>
+
+  <text x="82" y="294" fill="#C9CDD3" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="5">DEVELOPER · BUILDER · PRODUCT MAKER</text>
+
+  <text x="82" y="350" fill="#E2E4E7" font-family="Arial, Helvetica, sans-serif" font-size="22">I turn ideas into practical software.</text>
+  <text x="82" y="384" fill="#858B94" font-family="Arial, Helvetica, sans-serif" font-size="19">
+    Currently building <tspan fill="#9BC5FF">Billway</tspan> and <tspan fill="#9BC5FF">Printool</tspan>.
+  </text>
+
+  <!-- Tech labels -->
+  <g transform="translate(82 430)" font-family="Arial, Helvetica, sans-serif" font-size="14">
+    <rect width="88" height="34" rx="17" fill="#11151A" stroke="#30363E"/>
+    <text x="18" y="22" fill="#D9DDE2">Flutter</text>
+    <rect x="100" width="72" height="34" rx="17" fill="#11151A" stroke="#30363E"/>
+    <text x="119" y="22" fill="#D9DDE2">Dart</text>
+    <rect x="184" width="91" height="34" rx="17" fill="#11151A" stroke="#30363E"/>
+    <text x="203" y="22" fill="#D9DDE2">Firebase</text>
+    <rect x="287" width="79" height="34" rx="17" fill="#11151A" stroke="#30363E"/>
+    <text x="305" y="22" fill="#D9DDE2">React</text>
+    <rect x="378" width="110" height="34" rx="17" fill="#11151A" stroke="#30363E"/>
+    <text x="397" y="22" fill="#D9DDE2">TypeScript</text>
+    <rect x="500" width="94" height="34" rx="17" fill="#11151A" stroke="#30363E"/>
+    <text x="519" y="22" fill="#D9DDE2">and more</text>
+  </g>
+
+  <!-- Moon -->
+  <circle cx="1320" cy="198" r="118" fill="url(#moonGlow)"/>
+  <circle cx="1320" cy="198" r="57" fill="#F3F0E7"/>
+
+  <!-- Mountains -->
+  <path d="M1010 378 L1110 300 L1180 340 L1280 250 L1380 330 L1460 280 L1540 355 L1540 455 L1010 455 Z" fill="url(#mountain)" stroke="#354253"/>
+  <path d="M1060 365 L1150 320 L1205 345 L1280 274 L1355 340 L1420 306 L1510 366" fill="none" stroke="#647286" opacity=".7"/>
+
+  <!-- Second mountain ridge -->
+  <path d="M1000 405 L1100 350 L1170 375 L1245 320 L1315 365 L1400 315 L1515 385 L1600 345 V455 H1000 Z" fill="#0B1017" stroke="#202A37"/>
+
+  <!-- Road / illuminated path -->
+  <path d="M1010 455 C1120 430 1190 425 1250 405 C1310 385 1360 360 1410 345" fill="none" stroke="#1B2735" stroke-width="32" opacity=".9"/>
+  <path d="M1010 455 C1120 430 1190 425 1250 405 C1310 385 1360 360 1410 345" fill="none" stroke="url(#accent)" stroke-width="9" filter="url(#glow)"/>
+  <path d="M1010 455 C1120 430 1190 425 1250 405 C1310 385 1360 360 1410 345" fill="none" stroke="#F4F6F8" stroke-width="3"/>
+
+  <!-- Right-side statement -->
+  <text x="1460" y="174" fill="#858B94" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="4">01 / DIRECTION</text>
+  <text x="1460" y="205" fill="#F0F2F4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">BETTER</text>
+  <text x="1460" y="229" fill="#F0F2F4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">TOOLS</text>
+  <text x="1460" y="253" fill="#F0F2F4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">BRIGHTER</text>
+  <text x="1460" y="277" fill="#F0F2F4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">WORKFLOWS</text>
+
+  <!-- Tiny stars -->
+  <g fill="#DCE8F8">
+    <circle cx="1145" cy="126" r="2"/><circle cx="1430" cy="105" r="2"/><circle cx="1510" cy="145" r="1.5"/>
+    <circle cx="1240" cy="95" r="1.5"/><circle cx="1375" cy="150" r="1.5"/>
+  </g>
+</svg>
