@@ -1,163 +1,112 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Jitendra — Product Builder">
+<img src="./assets/hero.svg" width="100%" alt="Jitendra — Developer, Builder, Product Maker">
+
+<br><br>
+
+**DEVELOPER · BUILDER · PRODUCT MAKER**
+
+I like turning ideas into software that people can actually use.
 
 <br>
 
-### PRODUCT BUILDER · SOFTWARE · SYSTEMS
-
-I build practical software products — from mobile applications and web tools to larger business systems.
-
-<br>
-
-<a href="https://github.com/jkchy2001?tab=repositories">Repositories</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/jkchy2001?tab=stars">Stars</a>
+[![GitHub](https://img.shields.io/badge/GitHub-jkchy2001-0A0A0B?style=flat-square&logo=github&logoColor=white)](https://github.com/jkchy2001)
+[![Repositories](https://img.shields.io/badge/Repositories-View-0A0A0B?style=flat-square)](https://github.com/jkchy2001?tab=repositories)
 
 </div>
 
 <br>
 
----
+<img src="./assets/divider.svg" width="100%" alt="">
 
-## Currently building
+## What I'm building
+
+Right now, most of my attention is going into two products.
 
 <table>
 <tr>
-<td width="70%">
+<td width="50%" valign="top">
 
-### ToolMay
-
-A business software platform designed around the everyday workflow of small and growing businesses.
-
-**Focus**
-
-Inventory · Billing · Customers · Vendors · Reports · GST · Accounting · Offline-first workflows
-
-**Stack**
-
-`Flutter` `Dart` `Firebase`
+<img src="./assets/billway.svg" width="100%" alt="Billway">
 
 </td>
-<td width="30%" align="center">
+<td width="50%" valign="top">
 
-**BUILDING**
-
-`████████░░`
+<img src="./assets/printool.svg" width="100%" alt="Printool">
 
 </td>
 </tr>
 </table>
 
----
+I'm interested in the part of software where **product thinking, interface design and engineering meet** — taking a rough idea and gradually turning it into something reliable.
 
-## Selected work
+<br>
 
-<table>
-<tr>
+## How I work
 
-<td width="33%" valign="top">
+```text
+IDEA
+  ↓
+EXPLORE
+  ↓
+DESIGN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+REFINE
+  ↓
+SHIP
+```
 
-### LabelMaker
+I don't want software to be complicated just because the problem is complicated.
 
-Tools for creating and managing labels, including barcode and QR-based workflows.
+The goal is simple:
 
-`Python`
+> **Make the difficult parts invisible to the person using the product.**
 
-**→** [View repository](https://github.com/jkchy2001/Labelmaker)
+<br>
 
-</td>
+## My toolbox
 
-<td width="33%" valign="top">
+<img src="./assets/stack.svg" width="100%" alt="Technology toolbox">
 
-### Light Crew
+<br>
 
-A web-based project exploring modern application interfaces and workflows.
+I primarily work across **Flutter, Dart, web technologies and Firebase**, while experimenting with whatever tools are useful for the problem in front of me.
 
-`TypeScript`
+<br>
 
-**→** [View repository](https://github.com/jkchy2001/Light-crew)
+## Projects
 
-</td>
+| Project | What it is |
+|---|---|
+| **Billway** | Business software I'm currently building |
+| **Printool** | Printing and label-focused software I'm currently building |
+| **LabelMaker** | An earlier project around label generation |
+| **Light Crew** | Web/application experiment |
+| **Bajao** | Mobile application experiment |
 
-<td width="33%" valign="top">
+→ [Explore all repositories](https://github.com/jkchy2001?tab=repositories)
 
-### Bajao
+<br>
 
-A Flutter-based application experiment focused on mobile product development.
+## A little about me
 
-`Dart`
+I'm interested in **software products, automation, interfaces and the systems underneath them**.
 
-**→** [View repository](https://github.com/jkchy2001/Bajao)
+I enjoy starting with something that doesn't exist, figuring out how it should work, and then slowly turning that idea into a real product.
 
-</td>
+I'm still learning.  
+I'm still experimenting.  
+And I'm still building.
 
-</tr>
-</table>
+That's kind of the point.
 
----
+<br>
 
-## What I work with
-
-<table>
-<tr>
-<td valign="top">
-
-**Mobile**
-
-Flutter  
-Dart  
-Android
-
-</td>
-
-<td valign="top">
-
-**Web**
-
-React  
-TypeScript  
-JavaScript  
-Next.js
-
-</td>
-
-<td valign="top">
-
-**Backend**
-
-Firebase  
-APIs  
-Cloud services
-
-</td>
-
-<td valign="top">
-
-**Tools**
-
-Git  
-GitHub  
-VS Code  
-Android Studio
-
-</td>
-</tr>
-</table>
-
----
-
-## Building philosophy
-
-> **Useful beats impressive.**  
-> **Simple beats complicated.**  
-> **Shipped beats perfect.**
-
-I like software that solves an actual problem, stays understandable as it grows, and doesn't make the user think about the machinery underneath.
-
----
-
-## GitHub
+## GitHub activity
 
 <div align="center">
 
@@ -165,24 +114,28 @@ I like software that solves an actual problem, stays understandable as it grows,
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkchy2001&layout=compact&hide_border=true&theme=transparent" height="165">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkchy2001&hide_border=true&theme=transparent" width="70%">
 
 </div>
 
----
+<br>
+
+<img src="./assets/divider.svg" width="100%" alt="">
 
 <div align="center">
 
-### BUILD · SHIP · REFINE
+### BUILD · LEARN · REFINE · SHIP
 
 <br>
 
-<sub>Software should feel simpler than the engineering behind it.</sub>
+<sub>Still figuring things out. Still making things better.</sub>
+
+<br><br>
+
+<a href="https://github.com/jkchy2001">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/jkchy2001?tab=repositories">Projects</a>
 
 </div>
