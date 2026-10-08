@@ -1,0 +1,14 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="300" rx="24" fill="#0B0B0C"/>
+<rect x="1" y="1" width="898" height="298" rx="23" fill="none" stroke="#2A2A2D"/>
+<text x="48" y="72" fill="#F5F5F2" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">LABELMAKER</text>
+<text x="48" y="116" fill="#9A9A9E" font-family="Arial,Helvetica,sans-serif" font-size="18">Labels · QR · Barcodes · Printing</text>
+<g transform="translate(650 55)">
+<rect width="170" height="170" rx="12" fill="#F5F5F2"/>
+<rect x="24" y="24" width="42" height="42" fill="#0B0B0C"/>
+<rect x="104" y="24" width="42" height="42" fill="#0B0B0C"/>
+<rect x="24" y="104" width="42" height="42" fill="#0B0B0C"/>
+<path d="M90 90h20v20H90zm32 0h24v24h-24zm-32 32h24v24H90z" fill="#0B0B0C"/>
+</g>
+<text x="48" y="210" fill="#6F6F73" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">SELECTED PROJECT</text>
+</svg>

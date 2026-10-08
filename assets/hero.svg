@@ -1,0 +1,14 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="520" fill="#0B0B0C"/>
+<rect x="48" y="48" width="1504" height="424" rx="20" fill="none" stroke="#2A2A2D"/>
+<g transform="translate(120 145)">
+  <path d="M0 95V0h62c44 0 67 20 67 51 0 18-9 32-25 41l43 63H99L67 108H35v47H0Zm35-28h23c24 0 35-5 35-17s-11-18-35-18H35v35Z" fill="#F5F5F2"/>
+  <path d="M171 0h128v30h-46v125h-36V30h-46V0Z" fill="#F5F5F2"/>
+  <path d="M171 177h128" stroke="#F5F5F2" stroke-width="3"/>
+</g>
+<text x="450" y="205" fill="#F5F5F2" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="700" letter-spacing="14">JITENDRA</text>
+<text x="456" y="260" fill="#A7A7AA" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="7">PRODUCT BUILDER · SOFTWARE · SYSTEMS</text>
+<text x="456" y="325" fill="#D9D9D6" font-family="Arial,Helvetica,sans-serif" font-size="25">Building practical software products and systems.</text>
+<circle cx="456" cy="380" r="5" fill="#F5F5F2"/>
+<text x="478" y="388" fill="#88888C" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2">BUILD · SHIP · REFINE</text>
+</svg>

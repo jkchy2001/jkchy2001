@@ -1,0 +1,9 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="300" rx="24" fill="#0B0B0C"/>
+<rect x="1" y="1" width="898" height="298" rx="23" fill="none" stroke="#2A2A2D"/>
+<text x="48" y="88" fill="#F5F5F2" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700">BAJAO</text>
+<text x="48" y="132" fill="#9A9A9E" font-family="Arial,Helvetica,sans-serif" font-size="18">Mobile application experiment</text>
+<text x="48" y="208" fill="#6F6F73" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">FLUTTER · DART · ANDROID</text>
+<circle cx="750" cy="145" r="70" fill="none" stroke="#F5F5F2" stroke-width="3"/>
+<path d="M730 112l55 33-55 33z" fill="#F5F5F2"/>
+</svg>
